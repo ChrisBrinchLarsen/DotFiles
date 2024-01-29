@@ -8,11 +8,15 @@ cronie 1.7.1-1
 discord 0.0.41-1
 efibootmgr 18-2
 feh 3.10.2-1
+firefox 122.0-1
 fzf 0.45.0-1
+gamemode 1.8.1-2
+gamescope 3.13.19-1
 gst-plugin-pipewire 1:1.0.1-2
 heroic-games-launcher-bin 2.12.0-1
 intel-ucode 20231114-1
 ksnip 1.10.1-2
+lib32-gamemode 1.8.1-1
 lib32-pipewire 1:1.0.1-1
 librewolf-bin 122.0-1
 linux 6.7.1.arch1-1
